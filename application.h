@@ -11,17 +11,6 @@
 
 
 /*Section       :         Includes                */
-#include "ECU_Layer/LED/ecu_led.h"
-#include "MCAL_Layer/Interrupt/mcal_external_interrupt.h"
-#include "hal_eeprom.h"
-#include "hal_adc.h"
-#include "hal_usart.h"
-#include "hal_i2c.h"
-#include "hal_spi.h"
-#include "hal_timer0.h"
-#include "hal_timer1.h"
-#include "lighting_interface.h"
-#include "LDR_interface.h"
 
 /*Section       :         Data type Deceleration                 */
 
